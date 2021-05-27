@@ -15,6 +15,10 @@ Please navigate into both of these directories and execute `npm i` to install th
 
 ---
 
+### Set Up 
+
+_IMPORTANT_ Before making any changes, please create a branch with YOUR NAME as the branch name!
+
 ## Requirement 1
 
 You are tasked with updating the ExpressJS server in the [back-end](./back-end) directory to:
@@ -32,3 +36,8 @@ Additionally, you will update the ReactJS application in [front-end](./front-end
    - "Refresh" button (resend the API call from #4 and repopulate the Table)
    - "Back" button to navigate to landing page from #3.
 
+## Submission
+
+Once you have completed the code exercise and double-checking that you are on your own branch (from the [Set Up](#set-up)) step above, you may push your changes to the hosted repository.
+
+Done!
