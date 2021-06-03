@@ -2,7 +2,7 @@
   "name": "code-exercise-back-end",
   "version": "1.0.0",
   "scripts": {
-    "start": "DEBUG=server:* node ./bin/www"
+    "start": "node ./bin/www"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
